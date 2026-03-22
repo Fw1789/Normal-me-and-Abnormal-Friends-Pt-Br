@@ -4,7 +4,7 @@ Este repositório contém os arquivos de localização para a visual novel **Nor
 
 ## 📊 Status do Projeto
 - **Capítulo 1:** 100% (Concluído e Revisado)
-- **Capítulo 2:** 10% (Tradução iniciada)
+- **Capítulo 2:** 100% (Concluido e Revisado)
 - **Interface:** Traduzida
 
 ## 🛠️ Ferramentas Utilizadas
